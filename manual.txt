@@ -1,4 +1,4 @@
-can_slave4:
+How to use can_slave4:
 (1)cd z_matlab_file
 (2)open simulink_test.slx
 (3)enjoy it!
